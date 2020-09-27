@@ -1,26 +1,13 @@
-@media screen and (max-device-width:900px) {
-		.is-mobile {display:block;}
-		.no-mobile {display:none;}
+@media screen and (max-device-width: 900px) {
+		.is-mobile {display: block;}
+		.no-mobile {display: none;}
 		nav {font: 4vw Comic Sans MS;}
 		table td {
 			font: 2.7vw Comic Sans MS;
 			padding: none;
 		}
-		#homemain {
-			display: none; 
-			justify-content: none; 
-			align-items: none;
-		}
-		article {
-			width: 90%;
-			margin: 10% 10%;
-		}
-		aside {
-			width: 60%;
-			margin: 20% 20%;
-		}
+		article {width: 90%;}
+		aside {display: none;}
 		#intro {font: 3.5vw Comic Sans MS;}
 		.main {font: 3vw Comic Sans MS;}
-		#quote {font: 4vw Comic Sans MS;}
-		aside {font: 5vw Comic Sans MS;}
 }
