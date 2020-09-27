@@ -1,0 +1,12 @@
+@media screen and (max-width: 900px) {
+		.is-mobile {display:block;}
+		.no-mobile {display:none;}
+		table td {
+			font: 3vw Comic Sans MS;
+			padding: none;
+		}
+		#intro {font: 4vw Comic Sans MS;}
+		.main {font: 3vw Comic Sans MS;}
+		#quote {font: 3vw Comic Sans MS;}
+		aside {font: 4vw Comic Sans MS;}
+}

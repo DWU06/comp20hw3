@@ -1,0 +1,45 @@
+a:hover {color: #ebc634;}
+
+img {
+	border-radius: 30%;
+	margin: 2%;}
+
+header {
+	display: flex; 
+	justify-content: space-between; 
+	align-items: center;}
+
+a {text-decoration: none; color: #000;}
+
+nav {
+	font: 2.5vw Comic Sans MS;
+	padding-right: 3%;
+}
+
+h1 {
+	font: 50px Comic Sans MS;
+	padding-left: 3%;
+	font-weight: bold;
+}
+
+#homemain {
+	display: flex; 
+	justify-content: space-around; 
+	align-items: center;
+	margin: 5% 5%;
+}
+
+article {
+	width: 55%;
+}
+
+#intro {
+	font: 2vw Comic Sans MS;
+	font-weight: bold;
+}
+
+.main {
+	font: 1.5vw Comic Sans MS;
+}
+
+.is-mobile{display:none;}
