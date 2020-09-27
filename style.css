@@ -2,12 +2,14 @@ a:hover {color: #ebc634;}
 
 img {
 	border-radius: 30%;
-	margin: 2%;}
+	margin: 2%;
+}
 
 header {
 	display: flex; 
 	justify-content: space-between; 
-	align-items: center;}
+	align-items: center;
+}
 
 a {text-decoration: none; color: #000;}
 
@@ -29,9 +31,7 @@ h1 {
 	margin: 5% 5%;
 }
 
-article {
-	width: 55%;
-}
+article {width: 55%;}
 
 #intro {
 	font: 2vw Comic Sans MS;
