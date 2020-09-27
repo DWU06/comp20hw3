@@ -1,12 +1,25 @@
 @media screen and (max-device-width:900px) {
 		.is-mobile {display:block;}
 		.no-mobile {display:none;}
+	img {height="300" width="300"}
+		nav {font: 4vw Comic Sans MS;}
 		table td {
-			font: 3vw Comic Sans MS;
+			font: 2.7vw Comic Sans MS;
 			padding: none;
 		}
-		#intro {font: 4vw Comic Sans MS;}
+		#homemain {
+			display: none; 
+			justify-content: none; 
+			align-items: none;
+			margin: 5% 5%;
+		}
+		article {width: 90%;}
+		aside {
+			width: 60%;
+			margin: 20% 20%;
+		}
+		#intro {font: 3.5vw Comic Sans MS;}
 		.main {font: 3vw Comic Sans MS;}
-		#quote {font: 3vw Comic Sans MS;}
-		aside {font: 4vw Comic Sans MS;}
+		#quote {font: 4vw Comic Sans MS;}
+		aside {font: 5vw Comic Sans MS;}
 }
