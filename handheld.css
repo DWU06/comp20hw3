@@ -1,4 +1,4 @@
-@media screen and (max-width: 900px) {
+@media screen and (max-device-width: 900px) {
 		.is-mobile {display:block;}
 		.no-mobile {display:none;}
 		table td {
